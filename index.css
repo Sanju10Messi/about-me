@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #f0f2f5;
+    color: #0333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: auto;
+}
+
+a {
+    color: #ff5733;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
